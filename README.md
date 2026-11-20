@@ -19,7 +19,7 @@
 Структура проекта:
 
 ```text
-geometric_lib/
+labwork4_isrpo/
 ├── circle.py
 ├── rectangle.py
 ├── square.py
@@ -223,11 +223,6 @@ python -m unittest test_rectangle -v
 История изменений хранится в системе контроля версий Git. Для просмотра истории используются коммиты проекта.
 
 * Добавлены unit-тесты: `test_circle.py`, `test_rectangle.py`, `test_square.py`, `test_triangle.py`
-* `0ab1957` (HEAD -> new_features__558989) — Декларирование функций в файле circle.py
-* `13034b4` — Декларирование функций в файле rectangle.py
-* `21d44ee` — Декларирование функций в файле square.py
-* `cbf7848` — Декларирование функций в файле triangle.py
-* `701129a` — Исправление ошибки в файле
-* `314990b` — Добавлен новый файл rectangle.py
-* `d078c8d` (origin/main, origin/HEAD, main) L-03 — Docs added
-* `8ba9aeb` L-03 — Circle and square added
+* `588d867` (HEAD -> main, origin/main) — tests
+* `4b034e1` — adjustment
+* `413324e` — first commit
